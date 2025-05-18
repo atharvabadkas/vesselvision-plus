@@ -1,0 +1,12 @@
+{
+    "current_epoch": 38,
+    "total_epochs": 100,
+    "batch": 4,
+    "lr": 0.001,
+    "name": "yolov8s_improved",
+    "model_path": "/Users/atharvabadkas/Coding /YOLO Vessel Detection /YOLO V2 Model/vessel_detection/yolov8s_improved/weights/best.pt",
+    "data_yaml": "/Users/atharvabadkas/Coding /YOLO Vessel Detection /YOLO V2 Model/data.yaml",
+    "use_advanced": false,
+    "use_phased": true,
+    "timestamp": 1744622755.3155441
+}
